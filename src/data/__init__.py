@@ -20,6 +20,6 @@ else:
     print('File:',file_name,'Already exists')
 
 cleanData.setDF(cleanData, file_name)
-
+print("Finished with setDF")
 def getCleanDF():
     return cleanData.getDF(cleanData)
