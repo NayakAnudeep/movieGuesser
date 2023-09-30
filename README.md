@@ -11,6 +11,9 @@
 * Siddharth Kalyanasundaram, sika2030@colorado.edu
 * Trishala Thakur, trishala.thakur@colorado.edu
 
+## URL for the published final report
+https://cinecipher.ccbp.tech/
+
 ## Introduction
 
 Content recommendation and optimization has long been a field that entertainment giants such as Meta, Tik Tok, and Google have been heavily invested in, constantly tweaking their recommendation algorithms in order to keep viewers watching. In our project, we create our own content recommendation algorithm which uses natural language processing to pick out movies that most closely fit what the user is looking for.
@@ -49,4 +52,6 @@ The data used in this project was web scraped from IMDB film pages using the lib
 * Matplotlib is used for plotting
 * defaultdict is a dictionary subclass that provides default values for missing keys.
 * os module provides functions for interacting with the operating system, including file and directory manipulation.
+
+
 
